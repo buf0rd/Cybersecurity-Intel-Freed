@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Intel Free'd
+# 🛡️ Cybersecurity Intel Free'd : Demo? news.buf0rd.com
 
 <p align="center">
   <strong>Self-hosted cybersecurity news and intelligence aggregation without the subscription wall.</strong>
